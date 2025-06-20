@@ -79,7 +79,7 @@ This project helped reinforce best practices in:
 ## Author
 
 - GitHub - [@wahyuanandaa](https://github.com/wahyuanandaa)
-- Frontend Mentor - [@Wahyuanandaa](https://www.frontendmentor.io/profile/@Wahyuanandaa)
+- Frontend Mentor - [@Wahyuanandaa](https://www.frontendmentor.io/profile/wahyuanandaa)
 
 ## Acknowledgments
 
