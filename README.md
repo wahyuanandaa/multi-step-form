@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/wahyuanandaa/multi-step-form/)
+- Live Site URL: [GitHub Pages](https://wahyuanandaa.github.io/multi-step-form/)
 
 ## My process
 
@@ -78,8 +78,13 @@ This project helped reinforce best practices in:
 
 ## Author
 
+<<<<<<< HEAD
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+=======
+- GitHub - [@wahyuanandaa](https://github.com/wahyuanandaa)
+- Frontend Mentor - [@Wahyuanandaa](https://www.frontendmentor.io/profile/wahyuanandaa)
+>>>>>>> b09aeeac90e4088876a86f65c2e2fb66ca7b6762
 
 ## Acknowledgments
 
